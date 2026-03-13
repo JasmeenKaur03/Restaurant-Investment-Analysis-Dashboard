@@ -51,4 +51,4 @@ preferences, budget ranges, and geolocation data.
 - 📁 **File Format** – `.pbix` for development, `.png` for preview
 
 # 8. Dashboard Preview
-![Dashboard](Restaurant_Investment_Analysis_Dashboard___Snapshot_.png)
+(https://github.com/JasmeenKaur03/Restaurant-Investment-Analysis-Dashboard/blob/main/Restaurant%20Investment%20Analysis%20Dashboard%20%5B%20Snapshot%5D.png)
